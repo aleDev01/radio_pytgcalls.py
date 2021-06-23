@@ -1,2 +1,2 @@
-# radio_pytgcalls.py
+# radio pytgcalls
 radio created in seconds
